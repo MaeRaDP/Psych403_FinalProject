@@ -46,4 +46,3 @@ The experiment data I've collected consists of:
 
 Both participant data and experiment data are saved into a csv file with a filename consisting of participant number, session number, and date. 
 The first 2 rows of the CSV file consists of the participant data and the rest of the rows consists of the experiment data.
-'''
