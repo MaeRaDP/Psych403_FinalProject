@@ -13,7 +13,7 @@ In this task, I wanted to see how long participants are able to find the current
 
 Before the experiment, instructions are shown to participants. 
 There are 3 blocks of 10 trials in total.
-Prior to the search display, a fixation cross is shown for 250 ms.
+Prior to the search display, a fixation cross is shown for 500 ms.
 For the search display, there are 25 stimuli shown in a 5x5 grid
 The letters used as stimuli are "L" and "T" and the colours of the letters are either red or blue.
 In each trial, participants are asked to find and identify the 1 odd coloured letter target from 24 distractors.
