@@ -34,7 +34,7 @@ The participant data I've collected consists of:
 4. the participant's handedness,
 5. the participant's gender,
 6. if the participant has given consent (real experiments ask for consent per ethics guidelines)
-7. the date the experiment was ran
+7. and the date the experiment was ran.
 
 The experiment data I've collected consists of: 
 1. the target letter per trial,
