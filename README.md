@@ -41,7 +41,7 @@ The experiment data I've collected consists of:
 2. the target colour per trial, 
 3. the participant's response per trial (up, down, left, right),
 4. if the participant correctly identified the target (accuracies),
-5. the response time per trial,
+5. the response time per trial (from onset of search display to participant's key press,
 6. and the trial number and the block number.
 
 Both participant data and experiment data are saved into a csv file with a filename consisting of participant number, session number, and date. 
