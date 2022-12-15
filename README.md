@@ -1,8 +1,7 @@
-## Psych403_FinalProject
+# Psych 403 - Computer Programming for Psychology Final 
+## Coded by: Mae Pacificar
 
-#403 - Computer Programming for Psychology Final Project
 Python Script file name: 403Project_VisualSearch_MP
-Code by: Mae Pacificar
 
 This project is an example of the Visual Search Paradigm commonly used in Attention research to investigate how people search for targets among distractors.
 A classic example of the Visual Search Paradigm is the game Where's Waldo (Wally)?
@@ -23,25 +22,27 @@ The 24 distractors are composed of 20 opposite letters (in both possible colours
 For example, if the target is a red L, then the 20 distractors are composed of red and blue Ts and 4 blue Ls.
 The search display is shown until the participant has given their response.
 
-If the letter is L and red, the participant is asked to press the UP arrow key.
-If the letter is L and blue, the participant is asked to press the DOWN arrow key.
-If the letter is T and red, the participant is asked to press the LEFT arrow key.
-If the letter is T and blue, the participant is asked to press the RIGHT arrow key.
+- If the letter is L and red, the participant is asked to press the UP arrow key.
+- If the letter is L and blue, the participant is asked to press the DOWN arrow key.
+- If the letter is T and red, the participant is asked to press the LEFT arrow key.
+- If the letter is T and blue, the participant is asked to press the RIGHT arrow key.
 
 The participant data I've collected consists of:
-    (1) the participant number,
-    (2) the session number,
-    (3) the age of the participant,
-    (4) the participant's handedness,
-    (5) the participant's gender,
-    (6) if the participant has given consent (real experiments ask for consent per ethics guidelines)
-    (7) the date the experiment was ran
+1. the participant number,
+2. the session number,
+3. the age of the participant,
+4. the participant's handedness,
+5. the participant's gender,
+6. if the participant has given consent (real experiments ask for consent per ethics guidelines)
+7. the date the experiment was ran
+
 The experiment data I've collected consists of: 
-    (1) the target letter and (2) colour per trial, 
-    (3) the participant's response per trial (up, down, left, right),
-    (4) if the participant correctly identified the target (accuracies),
-    (5) the response time per trial,
-    (6) and the trial number and the block number.
+1. the target letter per trial,
+2. the target colour per trial, 
+3. the participant's response per trial (up, down, left, right),
+4. if the participant correctly identified the target (accuracies),
+5. the response time per trial,
+6. and the trial number and the block number.
 
 Both participant data and experiment data are saved into a csv file with a filename consisting of participant number, session number, and date. 
 The first 2 rows of the CSV file consists of the participant data and the rest of the rows consists of the experiment data.
