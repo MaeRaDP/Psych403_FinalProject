@@ -1,4 +1,4 @@
-# Psych 403 - Computer Programming for Psychology Final 
+# Psych 403 - Computer Programming for Psychology Final Project
 ## Coded by: Mae Pacificar
 
 Python Script file name: 403Project_VisualSearch_MP
