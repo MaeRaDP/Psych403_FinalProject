@@ -1,0 +1,33 @@
+,participant_nr,session,age,handedness,gender,consent given,date
+0,1,20,27,right,female,True,12-15-2022
+Block Number,Trial Number,Target Letter,Target Colour,Response,Accuracy,Response Time
+1,1,T,blue,right,Correct,5.981961199999205
+1,2,L,blue,down,Correct,6.770790399998077
+1,3,L,red,up,Correct,5.662012799992226
+1,4,T,red,left,Correct,2.8796048000076553
+1,5,T,blue,right,Correct,7.194345800002338
+1,6,L,blue,left,Incorrect,3.3867701000126544
+1,7,T,red,up,Incorrect,0.5594279000069946
+1,8,L,red,right,Incorrect,0.642270099997404
+1,9,L,red,left,Incorrect,0.44245310001133475
+1,10,T,blue,down,Incorrect,0.36661800000001676
+2,1,T,blue,left,Incorrect,0.5620307000062894
+2,2,L,red,up,Correct,0.516945899988059
+2,3,T,blue,right,Correct,0.4038481000025058
+2,4,T,blue,down,Incorrect,0.5095310000033351
+2,5,L,red,left,Incorrect,0.5496311000024434
+2,6,L,blue,up,Incorrect,0.6255487000016728
+2,7,L,red,right,Incorrect,0.7262894000014057
+2,8,L,blue,down,Correct,0.4929776000062702
+2,9,T,red,left,Correct,0.3272358999965945
+2,10,T,red,up,Incorrect,0.41453190000902396
+3,1,T,red,up,Incorrect,1.1021337999991374
+3,2,L,red,left,Incorrect,1.4579068000020925
+3,3,T,red,up,Incorrect,1.5121045000123559
+3,4,T,blue,right,Correct,3.590393899998162
+3,5,L,blue,up,Incorrect,0.8404643999965629
+3,6,L,red,left,Incorrect,0.5611693000100786
+3,7,L,red,down,Incorrect,0.43602919999102596
+3,8,T,blue,up,Incorrect,0.2466098000004422
+3,9,L,blue,left,Incorrect,0.0178678999945987
+3,10,T,blue,right,Correct,0.2631753000023309
